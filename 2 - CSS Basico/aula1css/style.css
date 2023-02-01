@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+
+h3 {
+    color: aqua;
+}
+
+/* "."e relacionado a classes no html; achei mais pratico esse */
+.foto {
+    width: 150px;
+}
+
+/* "#" e relacionado a ID no html */

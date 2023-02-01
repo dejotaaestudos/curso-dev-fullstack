@@ -1,0 +1,19 @@
+body {
+    background: #c5c5c5;
+}
+
+p {
+    color: #222222;
+}
+
+.foto {
+    border: 3px solid #FFFFFF; /*short hand */
+    border-radius: 50%;
+    width: 200px;
+
+    /* margin-top: 30px; ESPACAMENTO EXTERNO */
+    /* margin-left: 500px;  nao vai deixar no centro exatamente assim*/
+    margin: 30px 30px 30px 30px;
+    /* padding: 10px;  ESPACAMENTO INTERNO*/
+
+}

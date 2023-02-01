@@ -1,0 +1,18 @@
+body {
+    background-image: url(bannerDaniel.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 41%;
+    /* background-position: right top; */
+}
+
+p {
+    color: #222222;
+}
+
+/* aula 3 */
+
+.foto {
+    width: 150px;
+    border-radius: 17px;
+}

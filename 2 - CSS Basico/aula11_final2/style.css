@@ -1,0 +1,84 @@
+body {
+    background: #E39BC2;
+    background: linear-gradient(299deg, #E39BC2 0%, #D090DB 80%);
+    background: -webkit-linear-gradient(299deg, #E39BC2 0%, #D090DB 80%);
+    background: -moz-linear-gradient(299deg, #E39BC2 0%, #D090DB 80%);
+    font-family: 'Raleway', sans-serif;
+    color: #222222;
+    font-size: 18px;
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.foto {
+    border: 3px solid #FFFFFF; /*short hand */
+    border-radius: 50%;
+    width: 200px;
+    margin: 30px 30px 0;
+    box-shadow: 0px 0px 8px #c028d1;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 42px;
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(59, 47, 95);
+    letter-spacing: 2px;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin: 0;
+    font-style: italic;
+}
+
+p {
+    line-height: 22px;
+    margin-top: 8px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+   width: 24px;
+   margin: 0 5px;
+}
+
+.jobs-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.internship-list {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+    background: #E39BC2;
+    text-align: center;
+    padding: 5px 0;
+    color: #f8f8fa;
+    
+}

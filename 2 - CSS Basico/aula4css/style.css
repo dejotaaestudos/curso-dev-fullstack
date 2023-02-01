@@ -1,0 +1,13 @@
+body {
+    background: #c5c5c5;
+}
+
+p {
+    color: #222222;
+}
+
+.foto {
+    border: 3px solid #FFFFFF; /*short hand */
+    border-radius: 50%;
+    width: 230px;
+}
